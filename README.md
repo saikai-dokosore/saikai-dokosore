@@ -1,2 +1,3 @@
 ---
 # SAIKAI / DOKOSORE
+- 株式会社DOKOSORE CEO
